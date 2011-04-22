@@ -1,0 +1,25 @@
+name: DamnitWeasel
+main: net.weasel.Damnit.Weasel
+version: 1.0
+commands:
+  fixgrass:
+    description: Fixes the grass by resetting it to zero.
+    usage: "Usage: /fixgrass"
+  fixplants:
+    description: Fixes the plants by removing them entirely.
+    usage: "Usage: /fixplants"
+  fixvines:
+    description: Fixes the vines by removing them entirely.
+    usage: "Usage: /fixvines"
+  rose:
+    description: Grow a single red rose.
+    usage: "Usage: /rose"
+  flower:
+    description: Grow a single yellow flower.
+    usage: "Usage: /flower"
+  rmushroom:
+    description: Grow a single red mushroom.
+    usage: "Usage: /rmushroom"
+  bmushroom:
+    description: Grow a single brown mushroom.
+    usage: "Usage: /bmushroom"
