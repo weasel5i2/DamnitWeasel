@@ -1,6 +1,6 @@
 name: DamnitWeasel
 main: net.weasel.Damnit.Weasel
-version: 1.0
+version: 1.1
 commands:
   fixgrass:
     description: Fixes the grass by resetting it to zero.
